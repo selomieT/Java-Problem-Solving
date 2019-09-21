@@ -21,7 +21,7 @@ public class DuplicateArray {
         prime.addAll(primeNoDuplicate);
         System.out.println("list of prime number without Duplicates "+prime);
 
-      
+
     }
 
 }
